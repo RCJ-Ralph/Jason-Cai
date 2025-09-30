@@ -61,5 +61,5 @@ Personal profile README — Computer Science @ UQ, Machine Learning enthusiast
 ## 📫 Contact  
 
 - ✉️ Email: **jize.cai@student.uq.edu.au**  
-- 🌐 LinkedIn: *(Add your profile link here)*  
+- 🌐 LinkedIn: **  
 - 🏫 The University of Queensland | Guangxi Minzu University  
