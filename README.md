@@ -6,12 +6,11 @@ Personal profile README — Computer Science @ UQ | Machine Learning & Data Scie
 🎓 **International Joint Training Student** | **Computer Science & Artificial Intelligence**  
 🏫 The University of Queensland (Australia) | Guangxi Minzu University (China)  
 ✉️ jize.cai@student.uq.edu.au  
-
 ---
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Artificial Intelligence** — Guangxi Minzu University, China (GPA: 3.82/4)  
+- 🎓 **Bachelor of Artificial Intelligence** — Guangxi Minzu University, China (GPA: 3.85/4)  
 - 🎓 **Bachelor of Computer Science (Joint Training)** — The University of Queensland, Australia  
 
 ---
