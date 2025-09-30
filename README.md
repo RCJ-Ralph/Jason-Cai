@@ -5,7 +5,7 @@ Personal profile README — Computer Science @ UQ, Machine Learning enthusiast
 
 🎓 **International Joint Training Student** | **Computer Science & Artificial Intelligence**  
 🏫 The University of Queensland (Australia) | Guangxi Minzu University (China)  
-✉️ cjz310260@gmail.com  
+✉️ jize.cai@student.uq.edu.au  
 
 ---
 
@@ -56,13 +56,10 @@ Personal profile README — Computer Science @ UQ, Machine Learning enthusiast
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)  
-
 ---
 
 ## 📫 Contact  
 
-- ✉️ Email: **cjz310260@gmail.com**  
+- ✉️ Email: **jize.cai@student.uq.edu.au**  
 - 🌐 LinkedIn: *(Add your profile link here)*  
 - 🏫 The University of Queensland | Guangxi Minzu University  
