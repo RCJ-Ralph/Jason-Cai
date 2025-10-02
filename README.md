@@ -10,7 +10,7 @@ Personal profile README — Computer Science @ UQ | Machine Learning & Data Scie
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Artificial Intelligence** — Guangxi Minzu University, China (GPA: 3.85/4)  
+- 🎓 **Bachelor of Artificial Intelligence** — Guangxi Minzu University, China (GPA: 3.84/4)  
 - 🎓 **Bachelor of Computer Science (Joint Training)** — The University of Queensland, Australia  
 
 ---
